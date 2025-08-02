@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  url-shortener-backend:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-08-02T22:41:30.072908155+06:00"
+    description: A Helm chart for Kubernetes
+    digest: cbbd7af7b2b9f80183bed5d9b27d6432be1bbdd99655d2f55a62dcaab7f01cd6
+    name: url-shortener-backend
+    type: application
+    urls:
+    - url-shortener-backend-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-02T22:41:30.07229636+06:00"
